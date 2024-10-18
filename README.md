@@ -8,6 +8,13 @@ crop diseases early, ultimately contributing to increased yields and food securi
 # System Architecture AI
 <p align="center">
 <!-- Resized image with width attribute -->
-<img src="Pipeline Diagram.png" alt="Enrollment Process" width="1000" />
+<img src="digital.png" alt="Enrollment Process" width="1000" />
+<!-- Add more resized screenshots with descriptions as needed -->
+</p>
+
+# System Architecture: Node Communication and Hardware Hierarchy
+<p align="center">
+<!-- Resized image with width attribute -->
+<img src="digital.png" alt="Enrollment Process" width="1000" />
 <!-- Add more resized screenshots with descriptions as needed -->
 </p>
